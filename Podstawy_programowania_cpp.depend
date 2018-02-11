@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1512832804 source:c:\users\doriand\desktop\programowanie\c++\podstawy_programowania_cpp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"conio2.h"
+	"conio2.cpp"
+	"restrictions.h"
+	"restrictions.cpp"
+	"drawingFunctions.h"
+	"drawingFunctions.cpp"
+	"saveAndLoad.h"
+	"saveAndLoad.cpp"
+	"resizeAndCleaning.h"
+	"resizeAndCleaning.cpp"
+	"OtherFunctions.h"
+	"OtherFunctions.cpp"
+
+1512832674 c:\users\doriand\desktop\programowanie\c++\podstawy_programowania_cpp\conio2.h
+
+1510914396 c:\users\doriand\desktop\programowanie\c++\podstawy_programowania_cpp\conio2.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<windows.h>
+	"conio2.h"
+	<stdlib.h>
+
+1512305807 c:\users\doriand\desktop\programowanie\c++\podstawy_programowania_cpp\restrictions.h
+	<stdio.h>
+	"conio2.h"
+
+1512831539 c:\users\doriand\desktop\programowanie\c++\podstawy_programowania_cpp\restrictions.cpp
+	<stdio.h>
+	"restrictions.h"
+	"conio2.h"
+
+1512503085 c:\users\doriand\desktop\programowanie\c++\podstawy_programowania_cpp\drawingfunctions.h
+	<stdio.h>
+	"conio2.h"
+
+1512503082 c:\users\doriand\desktop\programowanie\c++\podstawy_programowania_cpp\drawingfunctions.cpp
+	<stdio.h>
+	"drawingFunctions.h"
+	"conio2.h"
+
+1512503557 c:\users\doriand\desktop\programowanie\c++\podstawy_programowania_cpp\saveandload.h
+	<stdio.h>
+	"conio2.h"
+
+1512832508 c:\users\doriand\desktop\programowanie\c++\podstawy_programowania_cpp\saveandload.cpp
+	<stdio.h>
+	"saveAndLoad.h"
+	"conio2.h"
+
+1512504737 c:\users\doriand\desktop\programowanie\c++\podstawy_programowania_cpp\resizeandcleaning.h
+	<stdio.h>
+	"conio2.h"
+	"OtherFunctions.h"
+
+1512830450 c:\users\doriand\desktop\programowanie\c++\podstawy_programowania_cpp\resizeandcleaning.cpp
+	<stdio.h>
+	"resizeAndCleaning.h"
+	"conio2.h"
+	"OtherFunctions.h"
+
+1512504767 c:\users\doriand\desktop\programowanie\c++\podstawy_programowania_cpp\otherfunctions.h
+	<stdio.h>
+	"conio2.h"
+
+1513610379 c:\users\doriand\desktop\programowanie\c++\podstawy_programowania_cpp\otherfunctions.cpp
+	<stdio.h>
+	"OtherFunctions.h"
+	"conio2.h"
+
